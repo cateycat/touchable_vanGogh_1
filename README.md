@@ -12,4 +12,4 @@ Touch screens are broadly utilized in museums for providing expanded information
     Flowers in a Blue Vase, 1887
     Kröller-Müller Museum, Netherlands
     61.5 x 38.5 cm
- - Inspired by: MCN2015 Ignite by Sina Bahram, Touching the Prado exhibition in The Museo del Prado, and the fine art (re)production technology through 3D scan/print developed by Willemijn Elkhuizen and Jo Geraedts from TU Delft, Netherlands
+- Inspired by: MCN2015 Ignite by Sina Bahram, Touching the Prado exhibition in The Museo del Prado, and the fine art (re)production technology through 3D scan/print developed by Willemijn Elkhuizen and Jo Geraedts from TU Delft, Netherlands
