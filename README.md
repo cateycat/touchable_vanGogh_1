@@ -7,7 +7,7 @@ Touch screens are broadly utilized in museums for providing expanded information
 
 - Concept/Design/Programming: DIET, Harvard Art Museums 
 - Sponsorship of the 3D printed painting: Océ - A Canon Company, Netherlands
-- Painting: 
+- Painting:
     Vincent van Gogh
     Flowers in a Blue Vase, 1887
     Kröller-Müller Museum, Netherlands
